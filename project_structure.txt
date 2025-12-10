@@ -1,0 +1,23 @@
+spam_classification_project/
+│
+├── data/
+│     └── spam.csv
+│
+├── src/
+│     ├── __init__.py
+│     ├── utils.py
+│     ├── data_cleaner.py
+│     ├── train_model.py
+│     └── predict.py
+│
+├── models/
+│     └── (model will be saved here)
+│
+├── reports/
+│     └── (metrics.json will be saved here)
+│
+├── notebooks/
+│     └── EDA.md
+│
+├── requirements.txt
+└── README.md
